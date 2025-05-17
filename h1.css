@@ -1,0 +1,11 @@
+p{
+	border-color:violet;
+	border-top:40px;
+	border-bottom: 50px;
+	border-left: 75px;
+	border-right:60px;
+	color:red;
+}
+.a{
+color: inherit;
+}
